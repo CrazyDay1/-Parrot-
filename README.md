@@ -32,7 +32,7 @@ git clone https://github.com/CrazyDay1/Athena.git
 ```
 2. Go to repository folder:
 ```
-cd /Athena/Athena
+cd Athena/Athena
 ```
 3. Install the required Python packages:
 ```
