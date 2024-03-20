@@ -44,7 +44,7 @@ streamlit run /Athena/homepage.py
 ```
 
 
-### Usage
+## Usage
 
 1. Navigate to the application URL provided by Streamlit upon running the script.
 2. Use the sidebar to upload an audio or text file for processing.
@@ -53,18 +53,18 @@ streamlit run /Athena/homepage.py
 5. Interact with Athena through the chat interface for additional text processing tasks.
 
 
-### Known Issues
+## Known Issues
 
 * Summarization quality may vary depending on the input format and model selection.
 * Long audio files may take significant time to transcribe.
 
 
-### Contributing
+## Contributing
 
 Contributions to Athena are welcome! Please feel free to fork the repository, make your changes, and submit a pull request.
 
 
-### License
+## License
 
-MIT License
+MIT 
 
