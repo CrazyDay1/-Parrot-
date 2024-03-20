@@ -1,6 +1,6 @@
 # Athena 🏛️ - Streamlit Application
 
-![Uploading Screenshot 2024-03-20 at 3.10.56 PM.png…]()
+![Uploading Screenshot 2024-03-20 at 3.10.56 PM.png…](https://github.com/CrazyDay1/Athena/blob/main/UI_Example.png)
 
 
 ## Introduction
