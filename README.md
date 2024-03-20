@@ -19,19 +19,21 @@ Athena is a Streamlit-based application designed to transcribe audio files and s
 ### Installation Steps
 
 1. Clone the repository:
-`py
+```
 git clone https://your-repository-url-here
-cd your-repository-directory`
-
+cd your-repository-directory
+```
 2. Install the required Python packages:
-`py
-pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 3. Download and set up Ollama:
 * Follow the instructions on the [Ollama Setup Page](https://ollama.com/download) to download and setup Ollama.
 * Ensure Ollama is properly configured as per your project's needs.
 4. Run the Streamlit application (Run it on your terminal):
-`py
-streamlit run /Athena/homepage.py`
+```
+streamlit run /Athena/homepage.py
+```
 
 ### Usage
 
