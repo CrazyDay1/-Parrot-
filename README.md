@@ -28,7 +28,7 @@ Athena is a Streamlit-based application designed to transcribe audio files and s
 
 1. Clone the repository:
 ```
-git clone https://your-repository-url-here
+git clone https://github.com/CrazyDay1/Athena.git
 cd your-repository-directory
 ```
 2. Install the required Python packages:
