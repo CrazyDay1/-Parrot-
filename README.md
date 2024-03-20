@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Athena is a Streamlit-based application designed to transcribe audio files and summarize text content. Leveraging state-of-the-art language models, Athena provides users with a user-friendly interface to upload audio or text files, select desired models for processing, and interact with the application through a chat function.
+Athena is a Streamlit-based application designed to transcribe audio files and summarize text content. Leveraging state-of-the-art language models, Athena provides users with a user-friendly interface to upload audio or text files, select desired models for processing, and interact with the application through a chat function. 
 
 
 
@@ -15,7 +15,7 @@ Athena is a Streamlit-based application designed to transcribe audio files and s
 * **Interactive Chat**: Engage with Athena through a chat interface to request summarizations and other text-based operations.
 * **Real-time Transcription and Summarization**: Watch as your audio and text files are processed in real-time, providing immediate feedback and results.
 
-
+> **Note**: All models are run locally on your machine. Therefore, the speed and performance of Athena depend on your hardware capabilities.
   
 ## Setup and Installation
 
@@ -29,7 +29,7 @@ Athena is a Streamlit-based application designed to transcribe audio files and s
 1. Clone the repository:
 ```
 git clone https://github.com/CrazyDay1/Athena.git
-cd your-repository-directory
+cd /Athena
 ```
 2. Install the required Python packages:
 ```
